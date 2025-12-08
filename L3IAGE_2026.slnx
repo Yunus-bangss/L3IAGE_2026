@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CalcApp/CalcApp.csproj" Id="8c0db24b-ac15-4370-9303-ff68d0ec3656" />
+  <Project Path="tranchAge/tranchAge.csproj" />
+  <Project Path="Welcome/Welcome.csproj" Id="458409e6-8866-432a-8e0f-b01717caa2ef" />
+  <Project Path="WelcomeProjetForm/WelcomeProjetForm.csproj" Id="4c9546a5-ab76-4156-a8c6-2655bf3ff82e" />
+</Solution>
